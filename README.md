@@ -8,6 +8,17 @@ Multi-threaded server: `mserver.py`
 
 Client: `client.py`
 
+### Example script:
+Server
+```
+python server.py
+```
+
+Client:
+```
+python client.py
+```
+
 ## Q2
 Single-Process server: `q2server.py`
 
